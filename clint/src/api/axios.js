@@ -2,7 +2,7 @@ import axios from 'axios';
 
 const API = axios.create({
     // baseURL: 'http://127.0.0.1:3420/api',
-    baseURL: 'http://127.0.0.1:3420/api',
+    baseURL: 'https://justice-portal.onrender.com/api',
     
 
     withCredentials: true
