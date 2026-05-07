@@ -16,12 +16,7 @@ const app = express();
 
 // middleware
 app.use(cors({
-    origin: [
-        'http://localhost:5173',
-        'http://localhost:5174',
-        'http://127.0.0.1:5173',
-        'http://127.0.0.1:5174'
-    ], // Your frontend URLs
+    origin: 'https://justice-portal-mu.vercel.app/' // Your frontend URLs
     credentials: true
 }));
 app.use(cookieParser());
