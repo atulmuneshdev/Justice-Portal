@@ -14,7 +14,7 @@ A robust MERN stack application designed to bridge the gap between clients seeki
 
 | Dashboard View | Chat Interface |
 | :---: | :---: |
-| ![Dashboard Placeholder](https://via.placeholder.com/800x450?text=Advocate+Dashboard) | ![Chat Placeholder](https://via.placeholder.com/800x450?text=Real-time+Chat+Interface) |
+| ![Dashboard Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192531.png) | ![Chat Placeholder](https://via.placeholder.com/800x450?text=Real-time+Chat+Interface) |
 | *Comprehensive view of cases and stats* | *Instant messaging between clients and advocates* |
 
 | Advocate Profile | Community Feed |
