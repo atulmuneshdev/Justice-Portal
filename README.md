@@ -19,7 +19,7 @@ A robust MERN stack application designed to bridge the gap between clients seeki
 
 | Advocate Profile | Community Feed |
 | :---: | :---: |
-| ![Profile Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-05-07%20141613.png) | ![Feed Placeholder](https://via.placeholder.com/800x450?text=Social+Feed) |
+| ![Profile Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-05-07%20141613.png) | ![Feed Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192606.png) |
 | *Detailed professional portfolio* | *Latest updates and posts from the legal community* |
 
 ---
