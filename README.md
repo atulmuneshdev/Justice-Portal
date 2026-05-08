@@ -1,10 +1,10 @@
 # ⚖️ Justice New - Legal Connectivity Platform
 
 [![React](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20193112.png)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-20-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Node.js](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192606.png)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-5.x-000000?logo=express&logoColor=white)](https://expressjs.com/)
-[![MongoDB](https://img.shields.io/badge/MongoDB-Latest-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-4.x-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![MongoDB](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192546.png)](https://www.mongodb.com/)
+[![TailwindCSS](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192606.png)
 
 A robust MERN stack application designed to bridge the gap between clients seeking legal aid and professional advocates. It provides a seamless interface for communication, case tracking, and community engagement.
 
@@ -14,7 +14,7 @@ A robust MERN stack application designed to bridge the gap between clients seeki
 
 | Dashboard View | Chat Interface |
 | :---: | :---: |
-| ![Dashboard Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192531.png) | ![Chat Placeholder](https://via.placeholder.com/800x450?text=Real-time+Chat+Interface) |
+| ![Dashboard Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20192531.png) | ![Chat Placeholder](https://github.com/atulmuneshdev/Justice-Portal/blob/main/clint/public/Screenshot%202026-04-15%20193045.png) |
 | *Comprehensive view of cases and stats* | *Instant messaging between clients and advocates* |
 
 | Advocate Profile | Community Feed |
